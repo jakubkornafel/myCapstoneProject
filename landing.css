@@ -2,7 +2,7 @@
 body{
   background-color: #011627;
   font-family: 'Sansita', sans-serif;
-  color: #FDFFFC;
+  color: #FDFFFC; /*una manera muy simple para darle color al font*/
   text-align: center;
   border: 35px solid #2EC486;
   border-top: 0px;
